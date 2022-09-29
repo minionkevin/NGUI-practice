@@ -1,4 +1,4 @@
-# UGUI-practice
+# NGUI-practice
 UGUI+XML practice
 using XML to save/load servers settings
-using UGUI to build UI
+using NGUI to build UI
